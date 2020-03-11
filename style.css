@@ -1,0 +1,28 @@
+        #login-box {
+            background-image: url('http://www.forest.go.kr/newkfsweb/cmm/fms/FileDown.do?atchFileId=FILE_000000010008639&fileSn=0');
+            background-size: cover;
+            background-position: center;
+            width: 300px;
+            height: 200px;
+            color: white;
+            text-align: center;
+            border-radius: 10px;
+            /* border: 50px solid yellow; */
+            /* margin: 50px ;
+            padding: 50px ; */
+        }
+        
+        * {
+            font-family: 'Sen', sans-serif;
+        }
+        
+        body {
+            background-color: #555555;
+        }
+        
+        .wrapper {
+            /* background-color: grey;
+            border: 5px sloid red; */
+            width: 300px;
+            margin: 10px auto;
+        }
